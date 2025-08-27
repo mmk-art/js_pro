@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Bill Splitter Offline",
+    "slug": "bill-splitter-offline",
+    "scheme": "billsplitter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "enabled": false
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
+
